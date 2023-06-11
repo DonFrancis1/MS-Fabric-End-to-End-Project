@@ -8,7 +8,8 @@ Stroke Prediction: In this project, we will predict whether a patient will have 
     3. Data Analysis(Power BI) 
     
 ## Project Architecture
-PICTURE HERE
+![Frame 1](https://github.com/DonFrancis1/MS-Fabric-End-to-End-Project/assets/88105784/f2c8422b-248f-4c8b-a14e-29a12cd92130)
+
 
 Inside a Fabric enabled workspace, the following assets were created to deliver this project
 ![Inkedfabric assets_LI](https://github.com/DonFrancis1/MS-Fabric-End-to-End-Project/assets/88105784/93973390-d7fc-40fc-b859-751ea15faed8)
