@@ -1,7 +1,7 @@
 # MS-Fabric-End-to-End-Project
 
 Stroke Prediction: In this project, we will predict whether a patient will have a heart stroke or not based on his/her comorbidities, work, and lifestyle.
- The project requires Data ingesstion and orchestration, Data Cleaning, Data Visualiation and Machine learning Model(SVM). The following Microsoft Fabric workload were used for the project delivery:
+ The project requires Data ingestion and orchestration, Data Cleaning, Data Visualiation and Machine learning Model(SVM). The following Microsoft Fabric workload were used for the project delivery:
  
     1. Data Engineering(Data Factory & Synpase Engineering)
     2. Data Science
@@ -51,7 +51,7 @@ Spark note was created to build the machine learning model after it was connecte
 <img width="919" alt="p4" src="https://github.com/DonFrancis1/MS-Fabric-End-to-End-Project/assets/88105784/d97e7c53-88ca-4b06-ab5f-38f96a42962a">
 <img width="920" alt="p5" src="https://github.com/DonFrancis1/MS-Fabric-End-to-End-Project/assets/88105784/ac452d4d-9bc1-4966-ac67-cc310151a6f7">
 
-It was a very rewarding and exciting experience. I am so thrilled at the possiblities with fabric and I cant to witness the co-pilot coming to public preview. 
+It was a very rewarding and exciting experience. I am so thrilled at the possiblities with fabric and I cannot wait to witness the co-pilot coming to public preview. 
 Link to dataset here: 
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
