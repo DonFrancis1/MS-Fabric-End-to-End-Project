@@ -18,7 +18,7 @@ Inside a Fabric enabled workspace, the following assets were created to deliver 
 The Dataset for this project was extracted, transformed and Loaded into an already created lakehouse using dataflow gen2 that opens up the Power Query online. On Power query, the lakehouse destination must be specified before publishing.  
 ![Frame 1](https://github.com/DonFrancis1/MS-Fabric-End-to-End-Project/assets/88105784/92e6544d-3f5e-42eb-bb28-88b4292ef15a)
 
-The Published Dataflow was then ingested and orchestrated using data factory. In the pipeline, a dataflow activity was created and ran successfully (Note that pipeline for this project is actually not compulsory but in case other pipeline activities like copy activtity are reqiured before loading the entire dataset into the lakehouse). Tables in Lakehouses are based on delta storage format. 
+The Published Dataflow was then ingested and orchestrated using data factory. In the pipeline, a dataflow activity was created and ran successfully (note that pipeline for this project is actually not compulsory but in case other pipeline activities like copy activtity are reqiured before loading the entire dataset into the lakehouse). Tables in Lakehouses are based on delta storage format. 
 
 <img width="920" alt="pipeline" src="https://github.com/DonFrancis1/MS-Fabric-End-to-End-Project/assets/88105784/ec9a1442-9b6d-499c-b1cf-e5a5c3260988">
 
